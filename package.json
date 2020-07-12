@@ -1,0 +1,19 @@
+{
+  "name": "dnprac",
+  "version": "1.0.0",
+  "description": "todo task practical",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Devashish",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.21"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
